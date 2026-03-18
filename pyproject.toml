@@ -3,7 +3,7 @@ name = "neo-andean-mcp"
 version = "1.0.0"
 description = "Neo-Andean aesthetic enhancement MCP server covering architecture (cholet) and fashion (cholita) domains"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = ["numpy"]
 
 [build-system]
 requires = ["hatchling"]
